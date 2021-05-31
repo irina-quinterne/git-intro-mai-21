@@ -1,3 +1,5 @@
 Homepage
 \nlien vers styles.css
-lie vers le panier
+lien vers le panier
+
+Petite correction graphique
