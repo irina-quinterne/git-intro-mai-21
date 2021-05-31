@@ -3,3 +3,4 @@ Homepage
 lien vers le panier
 lien vers login
 Ajout d'une banniere
+Petite correction graphique
